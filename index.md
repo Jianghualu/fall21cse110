@@ -2,9 +2,9 @@
 ！[This is my cat](/IMG_5656.JPG)
 
 ## My story
-    I went to [Concordia Academy](https://www.concordiaacademy.com/) in Minnesota for high school, then I came to [Diablo Valley College](https://www.dvc.edu) for College. That's where I started my journey in the Engineering field. Later on, I transferred to the [University of California, San Diego](https://ucsd.edu) to finish my Bachelor's degree. 
+I went to [Concordia Academy](https://www.concordiaacademy.com/) in Minnesota for high school, then I came to [Diablo Valley College](https://www.dvc.edu) for College. That's where I started my journey in the Engineering field. Later on, I transferred to the [University of California, San Diego](https://ucsd.edu) to finish my Bachelor's degree. 
     
-    I love to travel around, Here is  my travel List: 
+I love to travel around, Here is  my travel List: 
     -Minnesota
      -[x] Minneapolis
      -[x] Saint Paul
