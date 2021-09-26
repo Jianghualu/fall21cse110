@@ -28,7 +28,7 @@ I went to [Concordia Academy](https://www.concordiaacademy.com/) in Minnesota fo
 
 - Florida
      - [x] Orlando
-     - [] Miami
+     - [ ] Miami
 
 - Texas
      - [x] Houston
@@ -39,13 +39,13 @@ I went to [Concordia Academy](https://www.concordiaacademy.com/) in Minnesota fo
 - Washington
      - [x] Seattle 
      
-- [] Hawaii
-- [] Puerto Rico
-- [] Toronto
+- [ ] Hawaii
+- [ ] Puerto Rico
+- [ ] Toronto
 
 
-Here is one of my favortes quotes from Martin Fowler:
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+## Here is one of my favortes quotes from Martin Fowler:
+> Any fool can write code that a ~~computer can understand~~. Good programmers write code that **humans can understand**.
 
 ## Programming Languages I used:
 1. Java
