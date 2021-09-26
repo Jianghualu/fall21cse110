@@ -6,42 +6,42 @@ I went to [Concordia Academy](https://www.concordiaacademy.com/) in Minnesota fo
  then I came to [Diablo Valley College](https://www.dvc.edu) for College. 
  That's where I started my journey in the Engineering field. 
  Later on, I transferred to the [University of California, San Diego](https://ucsd.edu) to finish my Bachelor's degree. 
-    
-I love to travel around, Here is  my travel List: 
--Minnesota
-    -[x] Minneapolis
-    -[x] Saint Paul
-    -[x] Duluth
 
--[x]Michigan
+## My Travel List:   
+- Minnesota
+    - [x] Minneapolis
+    - [x] Saint Paul
+    - [x] Duluth
 
--California
-    -[x] San Francisco
-    -[x] Los Angeles
-     -[x] San Jose
-     -[x] San Diego
-     -[x] Sacrameto
+- [x] Michigan
 
--[x]New York City
+- California
+     - [x] San Francisco
+     - [x] Los Angeles
+     - [x] San Jose
+     - [x] San Diego
+     - [x] Sacrameto
 
--[x]Chicago
+- [x] New York City
+
+- [x] Chicago
 
 - Florida
-     -[x] Orlando
-     -[] Miami
+     - [x] Orlando
+     - [] Miami
 
--Texas
-     -[x] Houston
-     -[x] Austin
-     -[x] Dallas
-     -[x] San Antonio
+- Texas
+     - [x] Houston
+     - [x] Austin
+     - [x] Dallas
+     - [x] San Antonio
 
--Washington
-     -[x] Seattle 
+- Washington
+     - [x] Seattle 
      
--[] Hawaii
--[] Puerto Rico
--[] Toronto
+- [] Hawaii
+- [] Puerto Rico
+- [] Toronto
 
 
 Here is one of my favortes quotes from Martin Fowler:
