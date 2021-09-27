@@ -3,6 +3,8 @@
 This is my first User page, created on Sep 26, 2021. 
 using Markdown, and `git add` and `git commit`. 
 
+[Here is my readme file](/README.md)
+
 ## My story
 I went to [Concordia Academy](https://www.concordiaacademy.com/) in Minnesota for high school,
  then I came to [Diablo Valley College](https://www.dvc.edu) for College. 
@@ -55,5 +57,6 @@ I went to [Concordia Academy](https://www.concordiaacademy.com/) in Minnesota fo
 3. C++
 4. Python
 
+[Top](#welcome-to-sarahs-page)
 
 
