@@ -1,5 +1,7 @@
 # Welcome to Sarah's Page
-！[This is my cat](/IMG_5656.JPG)
+![This is my cat](/IMG_5656.JPG)
+This is my first User page, created on Sep 26, 2021. 
+using Markdown, and `git add` and `git commit`. 
 
 ## My story
 I went to [Concordia Academy](https://www.concordiaacademy.com/) in Minnesota for high school,
